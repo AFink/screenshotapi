@@ -1,0 +1,19 @@
+{
+  "name": "screenshotapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "phantom": "^6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.syslul.de/Andreas/screenshotapi.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
